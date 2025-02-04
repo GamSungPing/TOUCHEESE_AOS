@@ -2,10 +2,8 @@
 Toucheese 는 스튜디오, 공간 대여, 스냅 작가를 고객과 더 쉽게 연결해주는 플랫폼 입니다.
 
 Toucheese = Touch + Cheese
-‘Touch’ 는 셔터 촬영의 순간과 플랫폼을 통해 검색하는 터치의 의미를 가지며, ‘Cheese’ 는 촬영 시 미소를 짓게하는 의성어를 의미합니다. 이 두 단어가 결합된 사진관 플랫폼입니다.
+‘Touch’ 는 셔터 촬영의 순간과 플랫폼을 통해 검색하는 터치의 의미를 가지며,<br/> ‘Cheese’ 는 촬영 시 미소를 짓게하는 의성어를 의미합니다. 이 두 단어가 결합된 사진관 플랫폼입니다.
 
-
-<br>
 <br>
 
 # 📅 개발기간
@@ -76,8 +74,6 @@ Toucheese = Touch + Cheese
 
 # ⚙️ Arichitechture
 ![1](https://github.com/user-attachments/assets/1f457dcf-a4c4-4980-bb91-7f58de8cf2a5)
-
-
 
 <br>
 
